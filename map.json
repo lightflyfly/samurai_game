@@ -1,0 +1,94 @@
+{
+  "Entrance to the forest": [
+    "Akuma minus 10hp",
+    "Akuma minus 30hp",
+    {
+      "Forest path": [
+        "Akuma minus 20hp",
+        "Akuma minus 20hp",
+        60,
+        {
+          "Rivulet": [
+            {
+              "Rivulet...": [
+                {
+                  "Cave": [
+                    "Akuma minus 25hp",
+                    "Akuma minus 30hp",
+                    "Akuma minus 20hp",
+                    "Akuma minus 25hp",
+                    60,
+                    {
+                      "Dead end": [
+                        "Robbers min 80 gold"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Crossroad": [
+        "Akuma minus 20hp",
+        70,
+        {
+          "Climb up": [
+            "Akuma minus 10hp",
+            "Akuma minus 15hp",
+            "Akuma minus 20hp"
+          ]
+        },
+        {
+          "Cliff": [
+            {
+              "Temple": [
+                "Akuma minus 20hp",
+                "Akuma minus 25hp",
+                "Akuma minus 30hp",
+                "Akuma minus 35hp",
+                "Akuma minus 40hp",
+                30
+              ]
+            },
+            {
+              "Jump off": [
+                "Akuma minus 100hp",
+                "Robbers min 80 gold",
+                {
+                  "Shadow?": [
+                    "Boss minus 100hp",
+                    100,
+                    {
+                      "Shrine": [
+                        "Akuma minus 40hp",
+                        "Akuma minus 40hp",
+                        "Akuma minus 40hp"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "What is here?": [
+            "Boss minus 280hp",
+            {
+              "Field": [
+                "Akuma minus 10hp",
+                "Akuma minus 10hp",
+                "Akuma minus 10hp",
+                "Exit from the forest"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
